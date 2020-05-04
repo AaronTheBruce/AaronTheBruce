@@ -1,10 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Website
 
-You can use the [editor on GitHub](https://github.com/AaronTheBruce/aaron-github-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+<p>
+My name is Aaron Bruce, I am an aspiring Web Developer. I went to college for Psychology and Criminal Justice. I spent a year working for a tech startup company performing investigations into e-commerce sellers. In my time there, I got involved performing database queries and I used HTML, CSS, and JavaScript to make my own tools. I found my passion for working with and learning about new technologies and joined AppAcademy Online to take my career and skillsets to the next level!
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Currently Learning
+- HTML5 and CSS
+- JavaScript (JS)
+- DOM Manipulation with JS
+- Node.js
+- Making HTTP requests with JS
 
-### Markdown
+### My Favorite Personal App(s)
+- [Tarot Card Application](https://quiet-wave-71808.herokuapp.com/projects)
+
+### Check me out here:
+[LinkedIn](https://linkedin.com/aaronbrucefreelance@gmail.com/)<br>
+[GitHub](https://github.com/AaronTheBruce/)<br>
+[AaronTheBruce.com](http://www.aaronthebruce.com)
+
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,3 +51,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ -->
