@@ -16,7 +16,7 @@ My name is Aaron Bruce, I am an aspiring Web Developer. I went to college for Ps
 - [Tarot Card Application](https://quiet-wave-71808.herokuapp.com/projects)
 
 ### Check me out here:
-[LinkedIn](https://linkedin.com/aaronbrucefreelance@gmail.com/)<br>
+[LinkedIn](https://www.linkedin.com/in/aaronbrucefreelance//)<br>
 [GitHub](https://github.com/AaronTheBruce/)<br>
 [AaronTheBruce.com](http://www.aaronthebruce.com)
 
