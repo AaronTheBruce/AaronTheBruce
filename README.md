@@ -5,15 +5,16 @@
 My name is Aaron Bruce, I am an aspiring Web Developer. I went to college for Psychology and Criminal Justice. I spent a year working for a tech startup company performing investigations into e-commerce sellers. In my time there, I got involved performing database queries and I used HTML, CSS, and JavaScript to make my own tools. I found my passion for working with and learning about new technologies and joined AppAcademy Online to take my career and skillsets to the next level!
 </p>
 
-### Currently Learning
-- HTML5 and CSS
-- JavaScript (JS)
-- DOM Manipulation with JS
-- Node.js
-- Making HTTP requests with JS
+### Skills
+Skills | -----
+------ | -----
+React | Express
+Ajax | Node.js
+Python | Git
+HTML5 | CSS
 
-### My Favorite Personal App(s)
-- [Tarot Card Application](https://quiet-wave-71808.herokuapp.com/projects)
+### Projects
+- [Tarot Card Application](https://tarot-spread-app.herokuapp.com/)
 
 ### Check me out here:
 [LinkedIn](https://www.linkedin.com/in/aaronbrucefreelance//)<br>
